@@ -1,5 +1,5 @@
 # film Narrator Studio
 
-Plan mainly 30-second promos with saved projects, reference previews, video links, scripts and visual notes. Prepare a brief to copy and send to your own Orb. Manual handoff only: no connected production, automatic generation or in-app video download. Your own tools, online Mac and any media setup are separate requirements. URLs depend on permitted access; physical iPhone and separate-user production remain unverified.
+Create mainly 30-second promos with reference photos, accessible video links and saved projects. Review and explicitly send tool checks, story drafts or private video requests to your own chief-of-staff from the app. Production requires your own available tools, online Mac and active project Orb; sending is not job completion. Refresh to see saved Orb responses. Outputs arrive as Orbit attachments; in-app video downloads are unavailable. URL access, physical iPhone and separate-user operation remain limited or unverified.
 
 An app for Orbit. Install it from Orbit's App Library.
