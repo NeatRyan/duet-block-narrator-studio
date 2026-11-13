@@ -1,7 +1,7 @@
 {
   "name": "Narrator Studio",
   "icon": "film",
-  "description": "Create mainly 30-second promos with reference photos, accessible video links and saved projects. Review and explicitly send tool checks, story drafts or private video requests to your own chief-of-staff from the app. Production requires your own available tools, online Mac and active project Orb; sending is not job completion. Refresh to see saved Orb responses. Outputs arrive as Orbit attachments; in-app video downloads are unavailable. URL access, physical iPhone and separate-user operation remain limited or unverified.",
+  "description": "Create mainly 30-second promos with up to four labelled reference photos or bounded exact-image uploads, accessible video links and saved projects. Optional scene assignments keep people and exact photos explicit. Review and consent before sending requests to your own Orb; production requires your own available tools, online Mac and active project Orb. Sending is not completion. Refresh saved responses; finished files arrive as Orbit attachments. URL access varies; physical iPhone and separate-user operation remain unverified.",
   "duet": 1,
   "widget": true
 }
